@@ -1,0 +1,43 @@
+created_by: jlabocki
+task_description: 'This skills provides the ability to create output that can be used to create a game of connections.'
+seed_examples:
+- answer: '
+    1. Fashion Designers Output: Brand, Collection, Label, Line
+    2. Playground Verbs: Dodge, Hide, Hop, Tag
+    3. Looney Tunes Figures: Bunny, Duck, Martian, Pig
+    4. Homophones of Musicals: Greece, Hare, Katz, Maim
+    '
+  question: ' Can you create a connections game for me using the following themes: Fashion Designers Output, Playground Verbs, Looney Tunes Figures, Homophones of musicals
+    '
+- answer: '
+    1. Slim ___: Fit, Jim, Pickings, Shady
+    2. Enjoy A Meal: Dine, Feast, Feed, Sup
+    3. Early Iteration: Draft, Outline, Plan, Sketch
+    4. Spanish Pronouns: Ella, Me, Sus, Yo
+    '
+  question: ' Can you create a connections game for me using the following themes: Slim ___, Enjoy A Meal, Early Iteration, Spanish Pronouns
+    '
+- answer: '
+    1. Playfully Poke Fun At: Kid, Needle, Rib, Tease
+    2. Cuts Of Beef: Chuck, Flank, Loin, Round
+    3. Aconyms/Initialisms: MIA, OMG, PIN, RAM
+    4. Cocktails Minus Place Names: Libre, Mama, Mule, Sling
+    '
+  question: ' Can you create a connections game for me using the following themes: Playfully Poke Fun At, Cuts Of Beef, Acronyms/Initialisms, Cocktails Minus Place Names
+    '
+- answer: '
+    1. One With Top Billing: Headliner, Lead, Principal, Star
+    2. Vampire Vulnerabilities: Cross, Garlic, Silver, Sun
+    3. Satirical Publications, Familiarly: Cracked, Lampoon, Mad, Onion
+    4. Club ___: Med, Music, Sandwich, Soda
+    '
+  question: ' Can you create a connections game for me using the following themes: One With Top Billing, Vampire Vulnerabilities, Satirical Publications, Familiarly, Club ___
+    '
+- answer: '
+    1. Chutzpah: Brass, Cheek, Gall, Nerve
+    2. Accessories For Dog Walking: Collar, Halter, Harness, Lead
+    3. Things That Sping: Carousel, Globe, Record, Top
+    4. Lead Singers of 70s Rock Bands: Ferry, Mercury, Nicks, Plant
+    '
+  question: ' Can you create a connections game for me using the following themes: Chutzpah, Accessories For Dog Walking, Things That Spin, Lead Singers Of 70s Rock Bands
+    '
